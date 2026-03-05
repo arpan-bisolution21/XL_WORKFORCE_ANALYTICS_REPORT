@@ -19,7 +19,7 @@
 
 ## Business Objective
 
-To analyze Workforce Demographics, Hiring Patterns, Compensation Structure, and Payroll Distributions within an organization using Advanced Excel Analytics Tools.
+To analyze Workforce Demographics, Hiring Patterns, Compensation Structures, and Payroll Distributions within an organization using Advanced Excel Analytics Tools.
 
 The Goal of this Project is to enable:
 
@@ -37,7 +37,7 @@ The report provides insights into:
 
 - Workforce Demographics and Regional Distributions  
 - Hiring Patterns and Employee Experience Levels  
-- Compensation Structure and Salary Progression  
+- Compensation Structures and Salary Progressions  
 - Payroll Extremes and Salary Outliers  
 
 The Report is structured into Four Analytical Segments:
@@ -71,7 +71,7 @@ The Report is structured into Four Analytical Segments:
 ## Tools & Techniques
 
 ### Data Preparation
-- Dataset Transformation using **Power Query**
+- Dataset Transformations using **Power Query**
 - Creation of Calculated Columns including:
   - Age Buckets
   - Experience Buckets
